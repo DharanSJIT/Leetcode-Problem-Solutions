@@ -3,12 +3,11 @@ class Solution {
        int n=nums.length;
        int count=0;
        int count1=0;
-       for(int i=0;i<n+1;i++){
-            count+=i;
-       }
        for(int i=0;i<n;i++){
-           count1+=nums[i];
+            count+=i;
+            count1+=nums[i];
        }
+       count+=n;
        return count-count1;
     }
 }
