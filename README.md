@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+| [2652-sum-multiples](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
