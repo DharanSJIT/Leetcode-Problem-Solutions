@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2652-sum-multiples) |
 ## Binary Search
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
