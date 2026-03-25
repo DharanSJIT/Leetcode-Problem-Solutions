@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
