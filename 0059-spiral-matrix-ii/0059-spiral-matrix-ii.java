@@ -20,7 +20,7 @@ class Solution {
             if (top <= bottom) {
                 for (int i = right; i >= left; i--) {
                     mat[bottom][i]=temp;
-                temp++;
+                    temp++;
                 }
 
             }
@@ -28,7 +28,7 @@ class Solution {
             if (left <= right) {
                 for (int j = bottom; j >= top; j--) {
                    mat[j][left]=temp;
-                temp++;
+                   temp++;
                 }
             }
             left++;
