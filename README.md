@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -83,4 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
