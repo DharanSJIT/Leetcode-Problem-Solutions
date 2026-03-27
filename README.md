@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Graph Theory
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
