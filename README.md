@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 | [2652-sum-multiples](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
@@ -102,9 +103,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
