@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Graph Theory
