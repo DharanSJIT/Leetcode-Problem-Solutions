@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
