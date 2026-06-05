@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2652-sum-multiples) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
