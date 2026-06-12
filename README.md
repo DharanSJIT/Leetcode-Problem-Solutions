@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
