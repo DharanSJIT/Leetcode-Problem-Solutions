@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,14 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
