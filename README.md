@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
