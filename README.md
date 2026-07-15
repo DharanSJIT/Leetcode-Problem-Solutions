@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
