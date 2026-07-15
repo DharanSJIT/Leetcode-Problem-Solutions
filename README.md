@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0771-jewels-and-stones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1528-shuffle-string) |
