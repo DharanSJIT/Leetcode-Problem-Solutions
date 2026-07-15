@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1528-shuffle-string) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1528-shuffle-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Union-Find
 |  |
