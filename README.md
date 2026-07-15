@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0771-jewels-and-stones) |
@@ -202,5 +204,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
