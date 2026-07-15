@@ -1,11 +1,11 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        char[] str1=jewels.toCharArray();
-        char[] str2=stones.toCharArray();
+        char[] ch1=jewels.toCharArray();
+        char[] ch2=stones.toCharArray();
         int count=0;
-        for(int i=0;i<str1.length;i++){
-            for(int j=0;j<str2.length;j++){
-                if(str1[i]==str2[j]){
+        for(int i=0;i<ch1.length;i++){
+            for(int j=0;j<ch2.length;j++){
+                if(ch1[i]==ch2[j]){
                     count++;
                 }
             }
