@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2951-find-the-peaks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
