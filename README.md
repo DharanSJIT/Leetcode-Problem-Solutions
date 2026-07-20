@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0191-number-of-1-bits) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
