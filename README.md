@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
+| [1089-duplicate-zeros](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1528-shuffle-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
