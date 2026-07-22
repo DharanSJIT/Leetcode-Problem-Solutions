@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0389-find-the-difference) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Enumeration
