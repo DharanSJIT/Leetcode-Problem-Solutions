@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
