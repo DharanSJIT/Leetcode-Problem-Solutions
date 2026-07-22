@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0867-transpose-matrix) |
+| [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1089-duplicate-zeros](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2652-sum-multiples) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2027-minimum-moves-to-convert-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Queue
 |  |
