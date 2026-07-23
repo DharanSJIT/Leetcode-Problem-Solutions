@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2951-find-the-peaks) |
+| [3074-apple-redistribution-into-boxes](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2027-minimum-moves-to-convert-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Queue
 |  |
 | ------- |
