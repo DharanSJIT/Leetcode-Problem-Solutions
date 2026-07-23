@@ -4,7 +4,6 @@ class Solution {
         for(int i=0;i<n;i++){
             if(nums[i]==original){
                 original=2*original;
-                System.out.println(original);
                 i=-1;
             }
             
