@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
