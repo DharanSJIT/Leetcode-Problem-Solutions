@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 | [2951-find-the-peaks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2951-find-the-peaks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1122-relative-sort-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
+| [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 ## Union-Find
 |  |
 | ------- |
