@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
@@ -194,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/0506-relative-ranks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
