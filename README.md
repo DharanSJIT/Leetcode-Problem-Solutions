@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2785-sort-vowels-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/3731-find-missing-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2418-sort-the-people](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/DharanSJIT/Leetcode-Problem-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
